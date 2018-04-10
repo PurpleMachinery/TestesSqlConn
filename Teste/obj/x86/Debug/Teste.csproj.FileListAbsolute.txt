@@ -1,0 +1,19 @@
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\bin\Debug\Teste.exe
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\bin\Debug\Teste.pdb
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.frmInicial.resources
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.Properties.Resources.resources
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.exe
+C:\Users\wesley\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\Teste.exe
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\wesley\Desktop\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\wesley\Desktop\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\Teste.frmInicial.resources
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\Teste.Properties.Resources.resources
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\Teste.Select.resources
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wesley\Desktop\Teste\Teste\obj\x86\Debug\GenerateResource.write.1.tlog
